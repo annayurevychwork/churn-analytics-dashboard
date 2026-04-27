@@ -22,6 +22,6 @@ A modern, production-ready React application designed to visualize and analyze p
 
 ## 📸 Screenshots
 
-* `![Dashboard View](./screenshots/dashboard.png)`
-* `![Customer Details](./screenshots/customer-detail.png)`
-* `![Passing Tests](./screenshots/tests.png)`
+![Dashboard View](screenshots/dashboard.png)
+![Customer Details](screenshots/customer-detail.png)
+![Passing Tests](screenshots/tests.png)
